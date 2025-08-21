@@ -1,0 +1,4 @@
+export default function handler(req, res) {
+  res.setHeader("Content-Type", "text/plain");
+  res.status(200).send("683f9095af291d3d56ca99fe8ec478be931c13db7889c871141919ee350e25080e5c0b1b7c5178d03dfa2db581b346286397e9c1d5e743ca77f69fd0e23a77eb");
+}
